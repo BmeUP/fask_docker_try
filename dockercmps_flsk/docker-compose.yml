@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  api:
+      build: '/home/bme/side/dckr2/flskprjct2'
+      ports:
+          - target: 5353
+            published: 5353
+
+      links:
+        - web
+  web:
+    build: '/home/bme/side/dckr/flskprjct'
+    ports:
+      - target: 5000
+        published: 5000 
+   
+
