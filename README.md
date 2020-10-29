@@ -9,7 +9,7 @@ clone this repo:
 
 then change workdir:
 
-``cd fask_docker_try/dockercmps_flsk``
+``cd flask_docker_try/dockercmps_flsk``
 
 and finaly run docker-compose:
 
