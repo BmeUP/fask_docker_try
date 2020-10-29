@@ -1,5 +1,5 @@
-# fask_docker_try
-Try simple microservices with python-flask and dock
+# flask_docker_try
+Try simple microservices with python-flask and docker
 
 **Installing**
 
