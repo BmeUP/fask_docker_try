@@ -9,7 +9,7 @@ clone this repo:
 
 then change workdir:
 
-``cd cd fask_docker_try/dockercmps_flsk``
+``cd fask_docker_try/dockercmps_flsk``
 
 and finaly run docker-compose:
 
